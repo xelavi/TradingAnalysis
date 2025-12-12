@@ -516,7 +516,7 @@ Funciones para calcular:
 ## ✅ Checklist de Progreso
 
 - [x] Fase 1: Setup y Estructura Base
-- [ ] Fase 2: Data Service y Datos de Prueba
+- [x] Fase 2: Data Service y Datos de Prueba
 - [ ] Fase 3: Motor de Backtesting
 - [ ] Fase 4: Indicadores Técnicos
 - [ ] Fase 5: Estrategias de Trading
@@ -530,18 +530,19 @@ Funciones para calcular:
 
 ## 🎯 Estado Actual
 
-**Fase Actual**: FASE 2 - Data Service y Datos de Prueba
+**Fase Actual**: FASE 3 - Motor de Backtesting
 **Última Actualización**: 2025-12-12
-**Progreso General**: 10%
+**Progreso General**: 20%
 
 ---
 
 ## 📞 Próximos Pasos
 
-En el siguiente prompt, comenzaremos con la **FASE 2**:
-1. Crear servicio de datos históricos
-2. Implementar función para cargar CSV (datos de prueba)
-3. Crear datos de prueba en CSV para desarrollo
-4. Implementar validación y normalización de datos
+En el siguiente prompt, comenzaremos con la **FASE 3**:
+1. Crear clase base Strategy
+2. Implementar BacktestEngine
+3. Implementar sistema de gestión de trades
+4. Crear modelos Trade y BacktestResult
+5. Implementar cálculo de equity curve
 
-Una vez completada la Fase 2, continuaremos con la Fase 3 y así sucesivamente, usando este documento como referencia en cada paso.
+Una vez completada la Fase 3, continuaremos con la Fase 4 y así sucesivamente, usando este documento como referencia en cada paso.
