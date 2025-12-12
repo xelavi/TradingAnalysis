@@ -517,7 +517,7 @@ Funciones para calcular:
 
 - [x] Fase 1: Setup y Estructura Base
 - [x] Fase 2: Data Service y Datos de Prueba
-- [ ] Fase 3: Motor de Backtesting
+- [x] Fase 3: Motor de Backtesting
 - [ ] Fase 4: Indicadores Técnicos
 - [ ] Fase 5: Estrategias de Trading
 - [ ] Fase 6: Cálculo de Métricas
@@ -530,19 +530,19 @@ Funciones para calcular:
 
 ## 🎯 Estado Actual
 
-**Fase Actual**: FASE 3 - Motor de Backtesting
+**Fase Actual**: FASE 4 - Indicadores Técnicos
 **Última Actualización**: 2025-12-12
-**Progreso General**: 20%
+**Progreso General**: 30%
 
 ---
 
 ## 📞 Próximos Pasos
 
-En el siguiente prompt, comenzaremos con la **FASE 3**:
-1. Crear clase base Strategy
-2. Implementar BacktestEngine
-3. Implementar sistema de gestión de trades
-4. Crear modelos Trade y BacktestResult
-5. Implementar cálculo de equity curve
+En el siguiente prompt, comenzaremos con la **FASE 4**:
+1. Implementar SMA
+2. Implementar EMA
+3. Implementar RSI
+4. Implementar MACD
+5. Crear tests unitarios para indicadores
 
-Una vez completada la Fase 3, continuaremos con la Fase 4 y así sucesivamente, usando este documento como referencia en cada paso.
+Una vez completada la Fase 4, continuaremos con la Fase 5 y así sucesivamente, usando este documento como referencia en cada paso.
