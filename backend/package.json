@@ -1,0 +1,24 @@
+{
+  "name": "trading-backtest-backend",
+  "version": "1.0.0",
+  "description": "Backend para herramienta de backtesting de divisas",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [
+    "trading",
+    "backtest",
+    "forex"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2"
+  }
+}
