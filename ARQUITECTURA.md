@@ -516,8 +516,8 @@ Funciones para calcular:
 ## ✅ Checklist de Progreso
 
 - [x] Fase 1: Setup y Estructura Base
-- [ ] Fase 2: Data Service y Datos de Prueba
-- [ ] Fase 3: Motor de Backtesting
+- [x] Fase 2: Data Service y Datos de Prueba
+- [x] Fase 3: Motor de Backtesting
 - [ ] Fase 4: Indicadores Técnicos
 - [ ] Fase 5: Estrategias de Trading
 - [ ] Fase 6: Cálculo de Métricas
@@ -530,18 +530,19 @@ Funciones para calcular:
 
 ## 🎯 Estado Actual
 
-**Fase Actual**: FASE 1 - Setup y Estructura Base
+**Fase Actual**: FASE 4 - Indicadores Técnicos
 **Última Actualización**: 2025-12-12
-**Progreso General**: 0%
+**Progreso General**: 30%
 
 ---
 
 ## 📞 Próximos Pasos
 
-En el siguiente prompt, comenzaremos con la **FASE 1**:
-1. Inicializar el proyecto backend con Express
-2. Inicializar el proyecto frontend con Vue 3 + Vite
-3. Configurar la estructura de carpetas completa
-4. Establecer comunicación básica entre frontend y backend
+En el siguiente prompt, comenzaremos con la **FASE 4**:
+1. Implementar SMA
+2. Implementar EMA
+3. Implementar RSI
+4. Implementar MACD
+5. Crear tests unitarios para indicadores
 
-Una vez completada la Fase 1, continuaremos con la Fase 2 y así sucesivamente, usando este documento como referencia en cada paso.
+Una vez completada la Fase 4, continuaremos con la Fase 5 y así sucesivamente, usando este documento como referencia en cada paso.
